@@ -6,7 +6,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>gameoflife</name>
-    <url>https://github.com/wakaleo/game-of-life</url>
+    <url>http://localhost:8081/nexus/content/repositories/repo_1/</url>
     <properties>
         <build.number>SNAPSHOT</build.number>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
